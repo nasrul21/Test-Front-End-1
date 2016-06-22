@@ -1,0 +1,21 @@
+{
+  "name": "Test Bukapalak",
+  "authors": [
+    "Nasrul Faizin <faizinnasrul21@gmail.com>"
+  ],
+  "description": "",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.0.0",
+    "Ionicons": "ionicons#^2.0.1"
+  }
+}

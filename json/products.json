@@ -1,0 +1,52 @@
+[
+{
+	"nama": "Xiaomi Yi Hitam/Black Internasional Baru",
+	"harga": 1000000,
+	"stok": 10,
+	"pelapak": {
+		"nama": "Bandung Camera",
+		"lokasi": "Bandung"
+	},
+	"deskripsi": "Free Ongkir SELURUH INDONESIA !!!<br>Ready Stock !!!<br>Paket lengkap Xiaomi Yi Hitam Internasional"
+},
+{
+	"nama": "Samsung Galaxy J1 Ace - J110h - 4gb",
+	"harga": 1379000,
+	"stok": 50,
+	"pelapak": {
+		"nama": "Mitra Seleb Indo",
+		"lokasi": "Jakarta Barat"
+	},
+	"deskripsi": "1 Transaksi Max 20,<br> WARNA PUTIH,<br> GARANSI RESMI SAMSUNG INDONESIA"
+},
+{
+	"nama": " Brica B-Pro 5 Alpha Edition Warna Silver Combo Extreme Hd 1080p Wifi",
+	"harga": 1250000,
+	"stok": 100,
+	"pelapak": {
+		"nama": "Berisom Indonesia",
+		"lokasi": "Tangerang"
+	},
+	"deskripsi": "Paket Extreme merupakan paket kamera BRICA B-PRO 5 Alpha Edition Full HD + Sandisk Micro SDHC 16GB + Tongsis Attanta SMP 07 Black + Dual Charger + Baterai Brica AE Original + Medium Bag."
+},
+{
+	"nama": "Smartfren Andromax M2y Mifi Wifi 4g Lte",
+	"harga": 245000,
+	"stok": 500,
+	"pelapak": {
+		"nama": "Jakarta Perdana",
+		"lokasi": "Jakarta Timur"
+	},
+	"deskripsi": "Free 19 GB/bulan selama 1 Tahun (Setiap pengisian min 100rb/bulan)"
+},
+{
+	"nama": "Samsung Gear S2 Classic Sm-R732 - Black",
+	"harga": 4050000,
+	"stok": 8,
+	"pelapak": {
+		"nama": "ST Toms",
+		"lokasi": "Jakarta Barat"
+	},
+	"deskripsi": "Layar 1.2 inch Full Circular sAMOLED<br>RAM 512MB , ROM 4GB"
+}
+]
